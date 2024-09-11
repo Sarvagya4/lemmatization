@@ -1,1 +1,3 @@
 # lemmatization
+
+proper understanding
